@@ -8,9 +8,9 @@ a:hover, a:active, a:focus { color: #72AE56; }
 
 hr { border-bottom: 1px solid #424242; border-top: 1px solid #222; }
 
-h1, h2, h3, h4 { color: #e6e6e6; }
+h1, h2, h3, h4 { color: #72AE56; }
 
-h1 a { color: #e6e6e6; }
+h1 a { color: #72AE56; }
 
 h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #72AE56; }
 
