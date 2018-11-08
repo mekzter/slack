@@ -57,12 +57,12 @@ color:#f0c674;
 }
 
 .c-message_list__unread_divider__separator {
-border-color:#c66;
+border-color:#276757;
 }
 
 .c-message_list__unread_divider__label {
 color:#1d1f21;
-background:#c66;
+background:#276757;
 }
 
 .c-mrkdwn__member--link,.c-mrkdwn__subteam--link,.client_container .c-message a.c-mrkdwn__member--link,.client_container .c-message a.c-mrkdwn__subteam--link {
@@ -97,9 +97,9 @@ margin:.5rem 1.25rem 0;
 }
 
 #primary_file_button.active,#primary_file_button.focus-ring,#primary_file_button:focus,#primary_file_button:hover {
-background:#b5bd68;
+background:#276757;
 color:#fff;
-border-color:#b5bd68;
+border-color:#276757;
 }
 
 .p-message_pane__unread_banner__banner,.p-message_pane__unread_banner__close--detached {
@@ -126,17 +126,17 @@ color:#c5c8c6!important;
 }
 
 .p-channel_sidebar__channel--selected,.p-channel_sidebar__channel--selected:hover,.p-channel_sidebar__link--selected,.p-channel_sidebar__link--selected:hover {
-background:#b294bb!important;
+background:#276757!important;
 color:#fff!important;
 }
 
 .p-channel_sidebar__channel--selected .p-channel_sidebar__badge,.p-channel_sidebar__channel--selected .p-channel_sidebar__banner--mentions,.p-channel_sidebar__channel--selected:hover .p-channel_sidebar__badge,.p-channel_sidebar__channel--selected:hover .p-channel_sidebar__banner--mentions,.p-channel_sidebar__link--selected .p-channel_sidebar__badge,.p-channel_sidebar__link--selected .p-channel_sidebar__banner--mentions,.p-channel_sidebar__link--selected:hover .p-channel_sidebar__badge,.p-channel_sidebar__link--selected:hover .p-channel_sidebar__banner--mentions {
 background:#fff!important;
-color:#b294bb!important;
+color:#276757!important;
 }
 
 .p-channel_sidebar__badge,.p-channel_sidebar__banner--mentions {
-background:#c66!important;
+background:#19d29f!important;
 color:#fff!important;
 }
 
@@ -163,7 +163,7 @@ background:linear-gradient(180deg,rgba(29,31,33,0) 0;
 }
 
 .cm-s-default .cm-comment {
-color:#de935f;
+color:#19d29f;
 }
 
 .cm-s-default .cm-atom {
@@ -204,11 +204,11 @@ border-color:#3c3c3c;
 }
 
 .dark_theme ts-message .message_content .message_sender,.light_theme ts-message .message_content .message_sender,ts-thread .thread_header .thread_channel_name a {
-color:#b294bb!important;
+color:#1fc799!important;
 }
 
 .dark_theme ts-message .message_content .message_sender:hover,.light_theme ts-message .message_content .message_sender:hover,ts-thread .thread_header .thread_channel_name a:hover {
-color:#825b8e!important;
+color:#1fc799!important;
 }
 
 #threads_msgs_scroller_div .threads_caught_up_divider .divider_line {
