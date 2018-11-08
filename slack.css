@@ -96,7 +96,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #72AE56; }
 
 .channels_list_holder h2.hoverable:not(.jquery_hover):hover { color: #e6e6e6; opacity: 0.8; }
 
-.channels_list_holder ul { color: #e6e6e6 !important; }
+.channels_list_holder ul { color: #72AE56 !important; }
 
 .channels_list_holder ul li { text-shadow: 0 1px 1px rgba(0, 0, 0, 0.15); }
 
@@ -106,21 +106,21 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #72AE56; }
 
 .channels_list_holder ul li .primary_action.im_name:hover .im_name_background, .channels_list_holder ul li .primary_action.feature_user_custom_status:hover .im_name_background, .channels_list_holder ul li .primary_action:not(.feature_user_custom_status):hover { background: #222; }
 
-.channels_list_holder ul li.mention a { color: #e6e6e6; }
+.channels_list_holder ul li.mention a { color: #72AE56; }
 
 .channels_list_holder ul li.unread:not(.muted_channel) .primary_action { color: whitesmoke !important; }
 
-.channels_list_holder ul li.unread .prefix { color: #e6e6e6 !important; opacity: 1; }
+.channels_list_holder ul li.unread .prefix { color: #72AE56 !important; opacity: 1; }
 
-.channels_list_holder .group_close, .channels_list_holder .im_close, .channels_list_holder .mpim_close { color: #949494 !important; }
+.channels_list_holder .group_close, .channels_list_holder .im_close, .channels_list_holder .mpim_close { color: #72AE56 !important; }
 
 .channels_list_holder .unread_highlights { background: #bf360c; color: #e6e6e6; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15); }
 
-.channels_list_holder .unread_msgs { background: #222; color: #e6e6e6; }
+.channels_list_holder .unread_msgs { background: #222; color: #72AE56; }
 
-#channel_list_invites_link { border-bottom: 1px dotted #949494; color: #949494 !important; font-size: 0.9rem; }
+#channel_list_invites_link { border-bottom: 1px dotted #949494; color: #72AE56 !important; font-size: 0.9rem; }
 
-#channel_list_invites_link:hover { border-bottom: 1px solid #949494; }
+#channel_list_invites_link:hover { border-bottom: 1px solid #72AE56; }
 
 #quick_switcher_btn { background: #363636; border-top: 2px solid #363636; }
 
